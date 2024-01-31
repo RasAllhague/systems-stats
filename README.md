@@ -7,5 +7,5 @@ A simple commandline tool to get some system information, written in rust. Can e
 Is configure via commandline options. Run the following for help about running it.
 
 ```
-system-stats --help
+systems-stats --help
 ```
